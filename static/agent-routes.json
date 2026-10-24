@@ -1,0 +1,78 @@
+{
+  "schema_version": "2026-10-24",
+  "network": "git4ta.fun Unified Subdomain Matrix",
+  "total_columns": 10,
+  "total_articles": 1,
+  "columns": [
+    {
+      "tid": 1,
+      "name": "系统架构深度探索",
+      "uuid": "812164a8-218c-411e-a8b9-7bd297b30a45"
+    },
+    {
+      "tid": 2,
+      "name": "自动驾驶与 AIops",
+      "uuid": "b2d86fe0-087d-46af-9156-2f9145a941f8"
+    },
+    {
+      "tid": 3,
+      "name": "大本营自动化运维",
+      "uuid": "4c8670f5-6006-4e29-81db-2817c0b0cc6a"
+    },
+    {
+      "tid": 4,
+      "name": "长毛象中继健康度",
+      "uuid": "28bd5427-7a1b-4a01-8a7b-adc2306f9d75"
+    },
+    {
+      "tid": 5,
+      "name": "数据库一致性审计",
+      "uuid": "9131f330-cfd3-4e45-85b4-f71e5da1c1b9"
+    },
+    {
+      "tid": 6,
+      "name": "飞书多维表格共创",
+      "uuid": "b035e07f-0784-4475-abe8-ddc14d5874a0"
+    },
+    {
+      "tid": 7,
+      "name": "时序与高频量化专栏",
+      "uuid": "28c70306-9cfd-4e87-a80c-61acb80a2ccc"
+    },
+    {
+      "tid": 8,
+      "name": "前端 UI 与高级动效",
+      "uuid": "b71934f7-6f5a-40b5-b72b-369349d1665b"
+    },
+    {
+      "tid": 9,
+      "name": "知识空间与文档归档",
+      "uuid": "34d7382d-1176-4386-821c-a8f929128854"
+    },
+    {
+      "tid": 10,
+      "name": "全栈开放 API 接入",
+      "uuid": "c7d92aa5-ef87-4ccd-a600-92aa2611d56b"
+    }
+  ],
+  "articles": [
+    {
+      "id": 12,
+      "uuid": "7b8af9d6-3b82-4ff4-a585-91e6dab173f3",
+      "title": "《华严蒲牢》EP14：大模型地铁图谱：QoS阶级烙印与巨婴市场的终局格式化",
+      "column": "时序与高频量化专栏",
+      "author": "carbonado",
+      "email": "carbonado@git4ta.fun",
+      "created": "2026/9/19",
+      "audio_url": "https://podcast-r2.git4ta.fun/podcast/ep12.mp3",
+      "article_url": "https://about-asn.git4ta.fun/columns/%E6%97%B6%E5%BA%8F%E4%B8%8E%E9%AB%98%E9%A2%91%E9%87%8F%E5%8C%96%E4%B8%93%E6%A0%8F/ep12"
+    }
+  ],
+  "endpoints": {
+    "docs": "https://about-asn.git4ta.fun",
+    "astro_front": "https://asn.git4ta.fun",
+    "media_r2": "https://podcast-r2.git4ta.fun",
+    "agent_routes_api": "https://about-asn.git4ta.fun/api/agent-routes",
+    "cta_api": "https://about-asn.git4ta.fun/api/cta"
+  }
+}

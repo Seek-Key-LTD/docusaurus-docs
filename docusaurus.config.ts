@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // 部署配置 (Cloudflare Pages)
-  url: 'https://docs.git4ta.fun',
+  url: 'https://about-asn.git4ta.fun',
   baseUrl: '/',
 
   organizationName: 'Seek-Key-LTD',

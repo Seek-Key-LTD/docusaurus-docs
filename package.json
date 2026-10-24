@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync": "node scripts/sync-drupal.mjs",
+    "prebuild": "node scripts/sync-drupal.mjs",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
